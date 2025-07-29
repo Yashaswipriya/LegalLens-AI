@@ -38,6 +38,7 @@ LegalLens AI is an intelligent contract analyzer that allows users to upload leg
 
 ---
 ## 📄 Folder structure
+```
 LegalLens_AI/
 ├── client/                     # Frontend (Next.js)
 │   ├── public/
@@ -60,4 +61,4 @@ LegalLens_AI/
 │   ├── server.js
 │   └── package.json
 ├── .gitignore
-
+```
