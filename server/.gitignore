@@ -1,0 +1,14 @@
+# Ignore environment variables
+.env
+
+# Ignore uploaded files (if you're not using cloud storage yet)
+uploads/
+
+# Node dependencies
+node_modules/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
